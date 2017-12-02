@@ -1,0 +1,105 @@
+खोना
+Stemmer.mmAtStemmer : true
+Stemmer.useStemDictionary: false
+Wordlist reading begins : 2017-11-28 14:46:00.444
+Wordlist reading ends : 2017-11-28 14:46:00.905
+SRR reading begins : 2017-11-28 14:46:00.907
+SRR reading ends : 2017-11-28 14:46:00.912
+SRR reading begins : 2017-11-28 14:46:00.914
+SRR reading ends : 2017-11-28 14:46:00.917
+खोटा
+मोटा
+खोया 
+स्वादिष्ट
+मिठास
+मिठाई 
+अनिवार्य 
+
+Number of vertices in the graph: 4
+===============APPLYING LOCAL CENTRALITY MEASURES==============
+
+4
+DegreeCentrality: 
+2
+21771 - NOUN - [खो]
+0.0
+
+Pagerank: 
+21771 - NOUN - [खो]
+0.037500000000000006
+
+HITS: 
+null
+-1.0
+
+KPP: 
+21771 - NOUN - [खो]
+0.0
+
+DegreeCentrality: 
+0
+null
+-0.3333333333333333
+
+Pagerank: 
+null
+-1.0
+
+HITS: 
+null
+-1.0
+
+KPP: 
+null
+-1.0
+
+DegreeCentrality: 
+2
+9727 - NOUN - [मिठास, मीठापन, मधुरता, मधुराई, माधुर्य, माधुरी, मधुरिमा]
+0.0
+
+Pagerank: 
+9727 - NOUN - [मिठास, मीठापन, मधुरता, मधुराई, माधुर्य, माधुरी, मधुरिमा]
+0.037500000000000006
+
+HITS: 
+null
+-1.0
+
+KPP: 
+9727 - NOUN - [मिठास, मीठापन, मधुरता, मधुराई, माधुर्य, माधुरी, मधुरिमा]
+0.0
+
+DegreeCentrality: 
+0
+null
+-0.3333333333333333
+
+Pagerank: 
+null
+-1.0
+
+HITS: 
+null
+-1.0
+
+KPP: 
+null
+-1.0
+
+
+==============CREATING SUBGRAPHS===================
+
+Number of subgraphs created = 0
+
+===============APPLYING GLOBAL CENTRALITY MEASURES==============
+
+
+Highest entropy = -1.0
+null
+
+Highest edge density = -1.0
+null
+
+Highest compactnes = -1.0
+null
